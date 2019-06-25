@@ -1,5 +1,5 @@
 ---
 applications:
-- name: sample-nodejs-helloworld
+- name: Libras-Cloud
   random-route: true
   memory: 256M
